@@ -1,4 +1,8 @@
-.nav{
+body {
+    background-color: #0f2027;
+}
+
+.nav {
     border: none;
     gap: 30px;
     justify-content: end;
@@ -6,18 +10,52 @@
     margin-left: 50%;
     padding-top: 8px;
     font-weight: bold;
-    font-size: large ;
-    color:whitesmoke
+    font-size: large;
+    color: whitesmoke;
+    margin-top: 20px;
 }
 
-h2{
+h2 {
     border: none;
     margin-left: 20px;
     color: whitesmoke;
 }
-.nav_bar{
+
+.nav_bar {
     border: none;
     display: flex;
     gap: 40px;
-    background-color:blueviolet;
+    background-color: rgb(5, 82, 100);
+    margin: 20px;
+}
+
+a {
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+#Home {
+    color: aliceblue;
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 50px;
+}
+
+p {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+button {
+    background: #1e064e;
+    color: #fffafa;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 8px;
+    /* Rounded corner */
+    cursor: pointer;
+    font-weight: bold;
+    font-size: large;
+
 }
