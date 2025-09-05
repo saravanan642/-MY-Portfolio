@@ -44,6 +44,9 @@ a {
 p {
     font-size: x-large;
     font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    border: none;
+    margin: 20px;
 }
 
 
@@ -58,4 +61,27 @@ button {
     font-weight: bold;
     font-size: large;
 
+}
+
+.About {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    border: none;
+    margin: 20px;
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    
+}
+.about_1{
+    background-color: #060110;
+    padding: 40px;
+}
+.title{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: whitesmoke;
+    padding-top: 40px;
 }
