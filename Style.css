@@ -113,3 +113,32 @@ button {
     padding: 30px;
     margin: 1;
 }
+
+@media screen and (min-width: 1px) and (max-width: 768px){
+.nav {
+    border: none;
+    gap: 3px;
+    display: block;
+
+    /* margin-left: 50%;
+    padding-top: 8px;
+    font-weight: bold; */
+    font-size: large;
+    color: whitesmoke;
+    /* justify-content: space-around; */
+    margin-top: 20px;
+}    
+
+
+.nav_bar {
+    border: none;
+    display: flex;
+    background-color: rgb(5, 82, 100);
+
+}}
+
+
+.html{
+    border: solid;
+    padding: 20px;
+}
