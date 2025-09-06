@@ -4,7 +4,7 @@ body {
 
 .nav {
     border: none;
-    gap: 30px;
+    gap: 20px;
     justify-content: end;
     display: flex;
     margin-left: 50%;
@@ -24,7 +24,7 @@ h2 {
 .nav_bar {
     border: none;
     display: flex;
-    gap: 40px;
+    gap: 30px;
     background-color: rgb(5, 82, 100);
     margin: 20px;
 }
@@ -139,6 +139,10 @@ button {
 
 
 .html{
-    border: solid;
+    border: none;
     padding: 20px;
+}
+.CSS{
+    border: none;
+    padding: 10px;
 }
