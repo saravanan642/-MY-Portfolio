@@ -1,5 +1,9 @@
+*{
+    text-decoration: none;
+}
 body {
     background-color: #0f2027;
+    
 }
 
 .nav {
@@ -26,7 +30,9 @@ h2 {
     display: flex;
     gap: 30px;
     background-color: rgb(5, 82, 100);
-    margin: 20px;
+    position: sticky;
+    top: 0;
+    
 }
 
 a {
@@ -145,4 +151,12 @@ button {
 .CSS{
     border: none;
     padding: 10px;
+}
+.React{
+    border: none;
+    padding: 10px;
+}
+.technologies{
+    border: none;
+    display: flex;
 }
