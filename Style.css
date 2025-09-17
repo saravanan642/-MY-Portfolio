@@ -11,7 +11,7 @@ body {
     gap: 20px;
     justify-content: end;
     display: flex;
-    margin-left: 50%;
+    margin-left: 45%;
     padding-top: 8px;
     font-weight: bold;
     font-size: large;
@@ -169,3 +169,35 @@ button {
     border: none;
     display: flex;
 } */
+ .technologies{
+    border: none;
+    display: flex;
+    gap: 10%;
+    padding: 30px;
+    margin-left: 15%;
+    margin-top: 15px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+ }
+#technologies{
+    border: none;
+    display: flex;
+    gap: 10%;
+    padding: 30px;
+    margin-left: 15%;
+    margin-top: 10px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+ }
+ .skills{
+     color: black;
+    font-weight: bold;
+    text-align: center;
+ }
+ #method{
+    border: none;
+    margin-top: 5%;
+
+ }
