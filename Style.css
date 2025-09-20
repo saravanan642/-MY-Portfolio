@@ -234,19 +234,25 @@ img {
 .sample {
     color: black;
     text-align: center;
+    font-weight: bolder;
 
 }
 
 .style_sub {
-    color: gray;
+    color: rgb(8, 8, 8);
     font-size: larger;
     text-align: center;
+    font-weight: bold;
 }
 
 #card-1 {
-    border: solid;
+    border: 2px solid black;
     margin: 20px;
+    padding: 15px;
+    border-radius: 10px;      
+    box-shadow: 0 3px 50px black;
 }
+
 
 #Eduaction {
     background-color: white;
@@ -258,9 +264,10 @@ img {
 .text {
     color: black;
     text-align: center;
-    text-align: justify;
+    text-align:justify;
     padding-left: 20px;
     padding-right: 5%;
+    font-size:larger;
 
 }
 .three{
