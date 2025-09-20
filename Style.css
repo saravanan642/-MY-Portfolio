@@ -101,9 +101,10 @@ button {
 #title {
     border: none;
     display: flex;
-    
+
 }
-img{
+
+img {
     background-color: #060110;
 }
 
@@ -122,7 +123,7 @@ img{
     color: rgb(18, 0, 0);
     border: none;
     margin: 20px;
-    text-align:justify ;
+    text-align: justify;
     padding-left: 20px;
     padding-right: 5%;
 
@@ -133,6 +134,9 @@ img{
     background-color: white;
     padding: 30px;
     margin: 1;
+    border: none;
+    margin: 20px;
+    border-radius: 0.9%;
 }
 
 @media screen and (min-width: 1px) and (max-width: 768px) {
@@ -160,7 +164,7 @@ img{
     }
 
 
-    
+
 
 }
 
@@ -196,21 +200,70 @@ img{
 }
 
 #method {
-    border: solid 2px grey;
+    border: solid 1px grey;
     margin-top: 7%;
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border-radius: 0.9%;
 
 }
-#profile{
-    border: solid ;
-    
+
+#profile {
+    border: solid;
+
     margin-left: 2%;
 
 
 }
 
-#caption{
+#caption {
     color: #1e064e;
     text-align: center;
     border: none;
     margin-top: 50px;
+}
+
+.Top {
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 8%;
+}
+
+.sample {
+    color: black;
+    text-align: center;
+
+}
+
+.style_sub {
+    color: gray;
+    font-size: larger;
+    text-align: center;
+}
+
+#card-1 {
+    border: solid;
+    margin: 20px;
+}
+
+#Eduaction {
+    background-color: white;
+    border: none;
+    margin: 20px;
+    border-radius: 0.9%;
+}
+
+.text {
+    color: black;
+    text-align: center;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 5%;
+
+}
+.three{
+ border: none;
+ display: flex;
 }
