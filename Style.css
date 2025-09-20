@@ -252,7 +252,10 @@ img {
     border-radius: 10px;      
     box-shadow: 0 3px 50px black;
 }
-
+#card-1:hover {
+    transform: translateY(-5px); /* little lift effect */
+    box-shadow: 0 6px 30px rgb(19, 84, 195); /* stronger shadow */
+}
 
 #Eduaction {
     background-color: white;
