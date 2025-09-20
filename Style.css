@@ -196,8 +196,8 @@ img{
 }
 
 #method {
-    border: none;
-    margin-top: 5%;
+    border: solid 2px grey;
+    margin-top: 7%;
 
 }
 #profile{
