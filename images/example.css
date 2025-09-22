@@ -1,0 +1,10 @@
+.box{
+    border: solid;
+    border-radius: 30px;
+    width: fit-content;
+    box-shadow: 0 5px 50px red;
+}
+.box:hover{
+    transform: translatey(-50px);
+    box-shadow: 0 5px 60px green;
+}
