@@ -292,7 +292,9 @@ img {
     font-size: xx-large;
     color: blue;
     text-align: center;
-    
-    
-
+}
+.projects{
+    background-color: white;
+    padding: 2px;
+    margin: 10px;
 }
