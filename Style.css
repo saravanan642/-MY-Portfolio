@@ -298,3 +298,47 @@ img {
     padding: 2px;
     margin: 10px;
 }
+.form {
+  width: 400px;
+  margin-top: 5%;
+  margin-left: 35%;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 3px 20px rgb(113, 104, 104);
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+input, textarea {
+  width: 90%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.button {
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  align-items: end;
+}
+
+button:hover {
+  background: #0056b3;
+}
+#contact{
+    background-color: white;
+    padding: 30px;
+}
